@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      from="0 48 48" to="360 48 48" dur="7s" repeatCount="indefinite"/>
+    <circle cx="48" cy="48" r="42" fill="#252526"/>
+    <circle cx="48" cy="48" r="40" fill="none" stroke="#3776ab" stroke-width="3"
+      stroke-dasharray="62 62" stroke-linecap="round"/>
+    <circle cx="48" cy="48" r="40" fill="none" stroke="#ffd343" stroke-width="3"
+      stroke-dasharray="62 62" stroke-dashoffset="126" stroke-linecap="round"/>
+    <circle cx="48" cy="48" r="26" fill="none" stroke="#3776ab" stroke-width="3"
+      stroke-dasharray="40 41" stroke-linecap="round"/>
+    <circle cx="48" cy="48" r="26" fill="none" stroke="#ffd343" stroke-width="3"
+      stroke-dasharray="40 41" stroke-dashoffset="81" stroke-linecap="round"/>
+    <circle cx="48" cy="48" r="9" fill="#3776ab"/>
+    <circle cx="51" cy="45" r="2.5" fill="#fff"/>
+  </g>
+</svg>
