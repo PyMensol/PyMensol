@@ -1,6 +1,6 @@
 # hi, i'm pylen
 
-<img src="assets/spin.svg" align="right" width="90"/>
+<img src="assets/dance.gif" align="right" width="96"/>
 
 15, self taught. i build desktop tools in python instead of
 doing homework. everything here runs local, no accounts, no
