@@ -1,37 +1,27 @@
-# hi, i'm pylen
+# welcome to my github
 
 <img src="assets/dance.gif" align="right" width="96"/>
 
-15, self taught. i build desktop tools in python instead of
-doing homework. everything here runs local, no accounts, no
-cloud - just apps that do the thing.
+hi im pylen, im 15 and i make desktop apps in python.
+started coding to mess with games and never really stopped.
 
-currently into: systems stuff, how programs actually work
-underneath (memory, compilers, networks), and making uis that
-look like they came out of 2009 on purpose.
+everything here is stuff i wanted to exist so i just made it.
+not perfect but it works and i can explain every line.
 
----
+my dream is to become a python developer, go to university
+in canada and live there someday. so yeah i guess this
+profile is kinda my first cv lol
 
-## the collection
+## my projects
 
-| project | what it is | the fun part |
-| ------- | ---------- | ------------ |
-| [chameleon](https://github.com/PyMensol/chameleon) | pathfinding engine + 3d globe router | 15+ search algos racing on real roads |
-| [luaEngine](https://github.com/PyMensol/luaEngine) | lua editor + sandboxed vm | real lua 5.3 via fengari, roblox studio bridge |
-| [spark](https://github.com/PyMensol/spark) | tiny language | lexer → parser → bytecode → stack vm, live disassembly |
-| [peek](https://github.com/PyMensol/peek) | memory scanner | attach to a process, find values, freeze them |
-| [regexer](https://github.com/PyMensol/regexer) | live regex tester | highlights + explains the pattern as you type |
-| [postbox](https://github.com/PyMensol/postbox) | api tester | mini postman that stays out of your way |
+| project | what it is |
+| ------- | ---------- |
+| [chameleon](https://github.com/PyMensol/chameleon) | pathfinding on a 3d globe, like 15 search algos racing on real roads |
+| [luaEngine](https://github.com/PyMensol/luaEngine) | lua editor with a real lua 5.3 vm inside, talks to roblox studio |
+| [spark](https://github.com/PyMensol/spark) | my own tiny language, compiles to bytecode and runs on a stack vm |
+| [peek](https://github.com/PyMensol/peek) | memory scanner, basically a small cheat engine in python |
+| [regexer](https://github.com/PyMensol/regexer) | regex tester that highlights matches and explains your pattern |
+| [postbox](https://github.com/PyMensol/postbox) | small postman for testing apis |
 
----
-
-## how i work
-
-- PySide6 for everything desktop. i like the old visual
-  studio / cinema 4d look, not modern web-flat
-- single files where possible - if the whole app fits in one
-  file you can read it in one sitting
-- no deps i can't justify. peek is literally just ctypes
-- i write the readme for humans not recruiters
-
-`python is the best language because the error messages are polite`
+mostly pyside6 for the uis, mostly one file per project
+because i like being able to read the whole thing at once.
