@@ -29,7 +29,7 @@ profile is kinda my first cv lol
 
 | game | what it is |
 | ---- | ---------- |
-| [ruthless](https://github.com/PyMensol/ruthless) | chess engine from scratch - real rules, alpha-beta search, and a panel that shows u what its thinking while it beats u |
+| [ruthless](https://github.com/PyMensol/ruthless) | chess i made |
 
 mostly pyside6 for the uis, mostly one file per project
 because i like being able to read the whole thing at once.
