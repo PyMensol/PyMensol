@@ -22,7 +22,7 @@ profile is kinda my first cv lol
 | [peek](https://github.com/PyMensol/peek) | memory scanner, basically a small cheat engine in python |
 | [regexer](https://github.com/PyMensol/regexer) | regex tester that highlights matches and explains your pattern |
 | [postbox](https://github.com/PyMensol/postbox) | small postman for testing apis |
-| [eas](https://github.com/PyMensol/eas) | launcher-style shell ui - splash, working login, then a settings dashboard |
+| [gothinc](https://github.com/PyMensol/gothinc) | launcher-style shell ui - splash, working login, then a settings dashboard |
 
 mostly pyside6 for the uis, mostly one file per project
 because i like being able to read the whole thing at once.
