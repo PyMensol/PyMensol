@@ -23,6 +23,7 @@ profile is kinda my first cv lol
 | [regexer](https://github.com/PyMensol/regexer) | regex tester that highlights matches and explains your pattern |
 | [postbox](https://github.com/PyMensol/postbox) | small postman for testing apis |
 | [gothinc](https://github.com/PyMensol/gothinc) | launcher-style shell ui - splash, working login, then a settings dashboard |
+| [clutch](https://github.com/PyMensol/clutch) | clipboard history palette - win+v but with search n password-locked clips |
 
 mostly pyside6 for the uis, mostly one file per project
 because i like being able to read the whole thing at once.
